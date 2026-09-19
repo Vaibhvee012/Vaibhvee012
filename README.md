@@ -1,3 +1,5 @@
+<div align="center">
+
 # I'm Vaibhvee Prakash
 
 ### Aspiring Software Developer · Cloud Enthusiast · GenAI Explorer
@@ -5,6 +7,10 @@
 I'm a **Computer Science Engineering student at VIT Bhopal**, specializing in **Cloud Computing & Automation**.
 
 I build full-stack applications and enjoy exploring **Generative AI, Cloud Computing, and Software Development**. I'm currently focused on strengthening my engineering fundamentals and building practical applications.
+
+**· [PORTFOLIO](https://vaibhvee-portfolio.vercel.app/) ·**
+
+</div>
 
 ---
 
@@ -55,26 +61,27 @@ Git · GitHub · VS Code · Postman · Vercel · Render
 
 ---
 
+<div align="center">
+
 ## GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhvee012&theme=tokyonight" width="100%"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhvee012&theme=tokyonight" width="100%"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhvee012&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhvee012&theme=tokyonight" height="170"/>
-</p>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhvee012&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhvee012&theme=tokyonight" height="170"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Let's Connect
 
-**Portfolio:** [vaibhvee-portfolio.vercel.app](https://vaibhvee-portfolio.vercel.app/)
-
-**LinkedIn:** [Vaibhvee Prakash](https://www.linkedin.com/in/vaibhvee-prakash-901ba7289/)
-
----
+**[LinkedIn](https://www.linkedin.com/in/vaibhvee-prakash-901ba7289/)** · **[Portfolio](https://vaibhvee-portfolio.vercel.app/)**
 
 ### Build. Learn. Ship. Repeat.
 
+</div>
