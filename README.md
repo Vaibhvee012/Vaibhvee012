@@ -25,28 +25,29 @@ I enjoy building practical software, exploring emerging technologies, and turnin
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,css,tailwind,bootstrap" />
 </p>
 
 ### Backend & Databases
 
 <p> 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,redis" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,redis,postgressql" /> 
 </p>
 
 ### AI & Generative AI
+<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
 
 `LLMs` · `Gemini APIs` · `RAG` · `LangChain` · `LangGraph` · `AI Agents`
 
 ### Tools & Concepts
 
-`Git` · `GitHub` · `Postman` · `REST APIs` · `OOP` · `DBMS` · `OS` · `Computer Networks`
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" /> </p>
 
 ##  Experience
 
