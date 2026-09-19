@@ -8,19 +8,19 @@ I enjoy building practical software, exploring emerging technologies, and turnin
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 🎓 **B.Tech CSE** — VIT Bhopal | 2023–2027
-* 💻 Building full-stack applications with the **MERN Stack**
-* 🤖 Exploring **Generative AI, LLMs, RAG & AI Agents**
-* ☁️ Interested in **Cloud Computing, Security & Automation**
-* 🧠 Strengthening **DSA, OOP, DBMS, OS & Computer Networks**
-* 🚀 Passionate about **projects, hackathons & emerging technologies**
-* 🔍 Currently working towards becoming a stronger **Software Engineer**
+*  **B.Tech CSE** — VIT Bhopal | 2023–2027
+*  Building full-stack applications with the **MERN Stack**
+*  Exploring **Generative AI, LLMs, RAG & AI Agents**
+*  Interested in **Cloud Computing, Security & Automation**
+*  Strengthening **DSA, OOP, DBMS, OS & Computer Networks**
+*  Passionate about **projects, hackathons & emerging technologies**
+*  Currently working towards becoming a stronger **Software Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -86,7 +86,7 @@ I enjoy building practical software, exploring emerging technologies, and turnin
 
 ---
 
-### 💡 Build. Learn. Ship. Repeat.
+###  Build. Learn. Ship. Repeat.
 
 **Always building something, always learning something new.**
 
