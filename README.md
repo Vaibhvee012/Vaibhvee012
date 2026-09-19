@@ -80,7 +80,7 @@ Git · GitHub · VS Code · Postman · Vercel · Render
 
 ## Let's Connect
 
-**[LinkedIn](https://www.linkedin.com/in/vaibhvee-prakash-901ba7289/)** · **[Portfolio](https://vaibhvee-portfolio.vercel.app/)**
+**[LinkedIn](https://www.linkedin.com/in/vaibhvee-prakash-901ba7289/)**
 
 ### Build. Learn. Ship. Repeat.
 
