@@ -58,13 +58,19 @@ Git · GitHub · VS Code · Postman · Vercel · Render
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhvee012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhvee012&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhvee012&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhvee012&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhvee012&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ## Let's Connect
+
+**Portfolio:** [vaibhvee-portfolio.vercel.app](https://vaibhvee-portfolio.vercel.app/)
 
 **LinkedIn:** [Vaibhvee Prakash](https://www.linkedin.com/in/vaibhvee-prakash-901ba7289/)
 
